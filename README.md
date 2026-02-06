@@ -14,7 +14,7 @@ An AI Club Deputy Coordinator Mini-Project for the tenure 2025-26 aimed at inter
 ### **Deputy Coordinators**
 - Diyaansh
 - Lokajit
-- Nandhish Kori
+- Nandish Kori
 - Ritvik Raj Sripada
 - Rohan Bora
 - Sanjana Kanna
