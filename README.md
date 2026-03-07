@@ -17,7 +17,7 @@ An AI Club Deputy Coordinator Mini-Project for the tenure 2025-26 aimed at inter
 - Nandish Kori
 - Ritvik Raj Sripada
 - Rohan Bora
-- Sanjana Kanna
+- Sanjana Kannan
 - Vasanth R
 
 ### Coordinators
